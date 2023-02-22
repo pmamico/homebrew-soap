@@ -1,4 +1,9 @@
-# Pmamico Soap-cli
+# soap-cli brew formulae
+
+## What is `soap-cli`?
+
+`soap-cli` is a SOAP client for command line.  
+See more at https://github.com/pmamico/soap-cli.
 
 ## How do I install these formulae?
 
