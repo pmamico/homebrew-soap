@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install pmamico/soap-cli/<formula>`
+`brew install pmamico/soap/soap-cli`
 
-Or `brew tap pmamico/soap-cli` and then `brew install <formula>`.
+Or `brew tap pmamico/soap` and then `brew install soap-cli`.
 
 ## Documentation
 
