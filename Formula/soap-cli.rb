@@ -1,7 +1,7 @@
 class SoapCli < Formula
   desc "SOAP client for command-line"
   homepage "https://github.com/pmamico/soap-cli"
-  url "https://github.com/pmamico/soap-cli.git", tag: "v1.2"
+  url "https://github.com/pmamico/soap-cli.git", tag: "v1.3"
   license ""
   head "https://github.com/pmamico/soap-cli.git", branch: "main"
 
